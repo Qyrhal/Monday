@@ -1,4 +1,4 @@
-# Monday - AI Voice Assistant (Jarvis from Ironman looking, but with Ultron's Orb thingo )
+# Monday - AI Voice Assistant (Jarvis from Ironman, but with Ultron's Orb thingo )
 
 A full-stack AI voice assistant with real-time chat interface, speech-to-text (STT), text-to-speech (TTS), and wake word detection.
 Very lightweight.
