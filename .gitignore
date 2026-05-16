@@ -1,0 +1,90 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# Git Ignoring the AI stuff
+.omc/
+.claude/
+*.pytest_cache
+
+#fix my environment
+*.env
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.python-version
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.eggs/
+pip-wheel-metadata/
+site/
+
+# FastAPI / web app artifacts
+*.log
+logs/
+tmp/
+temp/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+coverage/
+dist/
+vite.svg
+*.tsbuildinfo
+
+# Package manager caches
+.pnpm-store/
+.npm/
+.yarn/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker / local infra
+.docker/
+docker-compose.override.yml
+
+# Misc
+*.sqlite3
+*.db
+
+# AI
+.omc/
+.claude/
+*.omc/
+*.claude/
